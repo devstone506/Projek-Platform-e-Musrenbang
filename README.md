@@ -1,10 +1,10 @@
 # E-Musrenbang Kecamatan Umbul Harjo
 
 # Kelompok DevStone
-25523229 - Aldo Alvero Pratama
-25523259 - Muchamad Adi Prasetyo
-25523150 - Dhieya Syifa Hardiana
-25523250 - Bening Affina
+- 25523229 - Aldo Alvero Pratama
+- 25523259 - Muchamad Adi Prasetyo
+- 25523150 - Dhieya Syifa Hardiana
+- 25523250 - Bening Affina
 
 # Masalah
 - Musyawarah perencanaan pembangunan (Musrenbang) masih mengharuskan kehadiran secara fisik yang menyebabkan banyak warga yang kesulitan untuk berpartisipasi dalam musyawarah tersebut.
